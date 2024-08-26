@@ -4,9 +4,9 @@
 <span>💡 <i>Solutions to <a href="https://leetcode.com/problemset/all/">LeetCode</a> in C++20, Python, PHP, and TypeScript. This repository aims to provide code with <strong>good readability</strong> and <strong>consistent style</strong> over various topics and embraces new standards.</i></span>
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/Solved-16/3261%20=%200.491%25-blue.svg?style=flat-square" alt="Solved Percentage" />
+<img src="https://img.shields.io/badge/Solved-17/3261%20=%200.521%25-blue.svg?style=flat-square" alt="Solved Percentage" />
 <br/>
-<img src="https://img.shields.io/badge/Easy-13/819-5CB85C.svg?style=flat-square" alt="Easy AC Count" />
+<img src="https://img.shields.io/badge/Easy-14/819-5CB85C.svg?style=flat-square" alt="Easy AC Count" />
 <img src="https://img.shields.io/badge/Medium-3/1710-F0AD4E.svg?style=flat-square" alt="Medium AC Count" />
 <img src="https://img.shields.io/badge/Hard-0/732-D9534F.svg?style=flat-square" alt="Hard AC Count" />
 </div>
